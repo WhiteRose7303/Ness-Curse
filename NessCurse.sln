@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex-2_4", "Ex-2\Ex-2_4\Ex-2_
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1st task", "1st task", "{63AAE1B9-7AAD-40C6-ADFD-441D393F248F}"
 	ProjectSection(SolutionItems) = preProject
-		EmptyTextFile.txt = EmptyTextFile.txt
+		Readme.txt = Readme.txt
 	EndProjectSection
 EndProject
 Global
