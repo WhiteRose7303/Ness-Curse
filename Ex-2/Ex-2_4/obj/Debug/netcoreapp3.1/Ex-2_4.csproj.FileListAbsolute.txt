@@ -1,0 +1,12 @@
+/Users/hadar/Projects/NessCurse/Ex-2/Ex-2_4/bin/Debug/netcoreapp3.1/Ex-2_4.deps.json
+/Users/hadar/Projects/NessCurse/Ex-2/Ex-2_4/bin/Debug/netcoreapp3.1/Ex-2_4.runtimeconfig.json
+/Users/hadar/Projects/NessCurse/Ex-2/Ex-2_4/bin/Debug/netcoreapp3.1/Ex-2_4.runtimeconfig.dev.json
+/Users/hadar/Projects/NessCurse/Ex-2/Ex-2_4/bin/Debug/netcoreapp3.1/Ex-2_4.dll
+/Users/hadar/Projects/NessCurse/Ex-2/Ex-2_4/bin/Debug/netcoreapp3.1/Ex-2_4.pdb
+/Users/hadar/Projects/NessCurse/Ex-2/Ex-2_4/obj/Debug/netcoreapp3.1/Ex-2_4.csprojAssemblyReference.cache
+/Users/hadar/Projects/NessCurse/Ex-2/Ex-2_4/obj/Debug/netcoreapp3.1/Ex-2_4.AssemblyInfoInputs.cache
+/Users/hadar/Projects/NessCurse/Ex-2/Ex-2_4/obj/Debug/netcoreapp3.1/Ex-2_4.AssemblyInfo.cs
+/Users/hadar/Projects/NessCurse/Ex-2/Ex-2_4/obj/Debug/netcoreapp3.1/Ex-2_4.csproj.CoreCompileInputs.cache
+/Users/hadar/Projects/NessCurse/Ex-2/Ex-2_4/obj/Debug/netcoreapp3.1/Ex-2_4.dll
+/Users/hadar/Projects/NessCurse/Ex-2/Ex-2_4/obj/Debug/netcoreapp3.1/Ex-2_4.pdb
+/Users/hadar/Projects/NessCurse/Ex-2/Ex-2_4/obj/Debug/netcoreapp3.1/Ex-2_4.genruntimeconfig.cache
