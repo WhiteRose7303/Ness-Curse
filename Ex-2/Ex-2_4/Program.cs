@@ -6,6 +6,7 @@ namespace Ex_2_4
     {
         static void Main(string[] args)
         {
+            //test
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("1) Import Data ");
             Console.WriteLine("2) Remove Data ");

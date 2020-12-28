@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 16.0.808.2
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basic Programing", "Basic Programing", "{7EF50D01-5AE4-4627-91CB-2623A52B1793}"
+	ProjectSection(SolutionItems) = preProject
+		Ex-2\EmptyTextFile.txt = Ex-2\EmptyTextFile.txt
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex-2", "Ex-2\Ex-2.csproj", "{80FD03BF-4C61-4F17-A571-8D62C5FD07EE}"
 EndProject
