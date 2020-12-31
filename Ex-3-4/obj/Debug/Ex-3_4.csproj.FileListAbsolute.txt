@@ -1,0 +1,7 @@
+C:\Users\User\source\ness\Ex-3-4\bin\Debug\Ex-3-4.exe.config
+C:\Users\User\source\ness\Ex-3-4\bin\Debug\Ex-3-4.exe
+C:\Users\User\source\ness\Ex-3-4\bin\Debug\Ex-3-4.pdb
+C:\Users\User\source\ness\Ex-3-4\obj\Debug\Ex-3_4.csprojAssemblyReference.cache
+C:\Users\User\source\ness\Ex-3-4\obj\Debug\Ex-3_4.csproj.CoreCompileInputs.cache
+C:\Users\User\source\ness\Ex-3-4\obj\Debug\Ex-3-4.exe
+C:\Users\User\source\ness\Ex-3-4\obj\Debug\Ex-3-4.pdb
